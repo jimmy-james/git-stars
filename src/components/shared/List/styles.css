@@ -1,0 +1,42 @@
+.listContainer {
+    margin: 100px 14px 14px 14px;
+}
+
+.listItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 7px;
+}
+
+.listItemIcon {
+    height: 23px;
+    width: 23px;
+}
+
+.listItemCenter {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    margin: 0 0 0 20px;
+}
+
+.listItemRight {
+    font-size: 13px;
+    color: #636363;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.listItemAuthor {
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+}
+
+.listItemMessage {
+    font-size: 14px;
+    color: #636363;
+    margin: 10px 20px 10px 0;
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="8" failures="0" time="4.495">
+  <testsuite name="&lt;ListItem/&gt; " errors="0" failures="0" skipped="0" timestamp="2019-12-13T15:24:45" time="2.838" tests="2">
+    <testcase classname="&lt;ListItem/&gt;  should render ListItem element when commit data is passed" name="&lt;ListItem/&gt;  should render ListItem element when commit data is passed" time="0.021">
+    </testcase>
+    <testcase classname="&lt;ListItem/&gt;  should not render ListItem element when no commit data is passed" name="&lt;ListItem/&gt;  should not render ListItem element when no commit data is passed" time="0.012">
+    </testcase>
+  </testsuite>
+  <testsuite name="&lt;Card/&gt; " errors="0" failures="0" skipped="0" timestamp="2019-12-13T15:24:45" time="3.005" tests="2">
+    <testcase classname="&lt;Card/&gt;  should render Card element when data is passed" name="&lt;Card/&gt;  should render Card element when data is passed" time="0.013">
+    </testcase>
+    <testcase classname="&lt;Card/&gt;  should not render Card element when no data is passed" name="&lt;Card/&gt;  should not render Card element when no data is passed" time="0.002">
+    </testcase>
+  </testsuite>
+  <testsuite name="&lt;CommitsPage/&gt; " errors="0" failures="0" skipped="0" timestamp="2019-12-13T15:24:45" time="3.039" tests="1">
+    <testcase classname="&lt;CommitsPage/&gt;  should render List element" name="&lt;CommitsPage/&gt;  should render List element" time="0.004">
+    </testcase>
+  </testsuite>
+  <testsuite name="&lt;HomePage/&gt; " errors="0" failures="0" skipped="0" timestamp="2019-12-13T15:24:45" time="3.051" tests="1">
+    <testcase classname="&lt;HomePage/&gt;  should render home page element" name="&lt;HomePage/&gt;  should render home page element" time="0.01">
+    </testcase>
+  </testsuite>
+  <testsuite name="&lt;List/&gt; " errors="0" failures="0" skipped="0" timestamp="2019-12-13T15:24:45" time="3.078" tests="2">
+    <testcase classname="&lt;List/&gt;  should render List element when commits are passed" name="&lt;List/&gt;  should render List element when commits are passed" time="0.011">
+    </testcase>
+    <testcase classname="&lt;List/&gt;  should not render List element when no commits are passed" name="&lt;List/&gt;  should not render List element when no commits are passed" time="0.004">
+    </testcase>
+  </testsuite>
+</testsuites>

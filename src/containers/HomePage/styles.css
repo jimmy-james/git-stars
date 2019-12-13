@@ -1,0 +1,8 @@
+.homePageContainer .cardWrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: relative;
+    margin: 77px 7px 7px 7px;
+}
